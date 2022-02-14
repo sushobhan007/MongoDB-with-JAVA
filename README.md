@@ -2,7 +2,7 @@
 Create Collection,
 Populate over Documents,
 Update Document based on _id,
-Read data as JSON Format,
+Read data in JSON Format,
 Delete based on _id
 
 
